@@ -67,5 +67,3 @@ Plaintext
 ⚠️ Lisans ve Uyarı
 
 Bu proje bir hayran çalışmasıdır (Fan-made). Karakter tasarımları, ses efektleri ve hikaye öğeleri Toby Fox (Undertale) mülkiyetindedir. Ticari amaçla kullanılamaz.
-
-Flowey OS hakkında başka bir dökümantasyon veya geliştirme planın var mı?
